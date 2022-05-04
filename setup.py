@@ -5,7 +5,7 @@ setuptools.setup (
   name='testoutput1946',
   version='1.0.1',
   description='oss-development class test output,
-  author='junhyuckan',
+  author='pullsss',
   author_email='iloveujieun@naver.com',
   url = "https://github.com/pullsss/testoutput",
   
