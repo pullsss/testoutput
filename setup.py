@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup (
   include_package_data = True,
-  name='testoutput',
+  name='testoutput1946',
   version='1.0.1',
   description='oss-development class test output,
   author='junhyuckan',
@@ -12,7 +12,7 @@ setuptools.setup (
   install_requires=['pytest'],
   long_description = 'oss -development ...,
   long_description_content_type = 'text/markdown',
-  classifiers={
+  classifiers=[
     "Programming Language :: Python :: 3",
     "Operating System :: OS Independent",
   ],
