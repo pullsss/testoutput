@@ -3,9 +3,9 @@ import setuptools
 setuptools.setup (
   include_package_data = True,
   name='testoutput1946',
-  version='1.0.1',
+  version='0.0.1',
   description='oss-development class test output,
-  author='pullsss',
+  author='op4705',
   author_email='iloveujieun@naver.com',
   url = "https://github.com/pullsss/testoutput",
   
