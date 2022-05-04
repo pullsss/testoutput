@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup (
   include_package_data = True,
-  name='testoutput1946',
+  name='testoutput',
   version='1.0.1',
   description='oss-development class test output,
   author='junhyuckan',
